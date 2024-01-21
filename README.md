@@ -66,7 +66,4 @@ Achieve gender equality and empower all women and girls.
 
 
 # Please check out our Presentation for more details: 
-[Google Solution Challenge  India Regionals - Suraksha.pdf](https://github.com/ShaikArshidBanu/Suraksha/files/14001597/Google.Solution.Challenge.India.Regionals.-.Suraksha.pdf)
-
-
-
+[Google Solution Challenge  India Regionals - Suraksha.pdf](https://github.com/ShaikArshidBanu/Suraksha/files/14001613/Google.Solution.Challenge.India.Regionals.-.Suraksha.pdf)
