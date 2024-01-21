@@ -1,4 +1,7 @@
 # Suraksha
+ 
+![Screenshot 2024-01-21 185528](https://github.com/ShaikArshidBanu/Suraksha/assets/112767165/94738685-eb7e-4a42-8a63-314026e2667f)
+
 # Overview 
 This project addresses the pressing need for women's personal safety with the help of a mobile app offering features like real-time location sharing, access to self-defense resources and discreet emergency alerts. Users can share their whereabouts with trusted contacts and activate quick alerts in distressing situations. The app prioritizes simplicity and effectiveness, aiming to empower women with tools that enhance their security.  With a commitment to continuous improvement, we strive to contribute to a safer society where women can move through life with increased confidence and security.
 # Objectives 
@@ -43,6 +46,8 @@ There are many women safety apps like Personal Safety,My Safetipin etc.But still
 # Introducing Suraksha
 
 Welcome to Suraksha, your trusted companion for personal safety. At Suraksha, we prioritize your security and empowerment. Whether you're navigating the bustling city streets, commuting late at night, or exploring new places, our app is designed to be your vigilant partner. With real-time location sharing, emergency alerts,we're committed to creating a safer space for you.  
+
+https://github.com/ShaikArshidBanu/Suraksha/assets/112767165/0ef5e5e8-5897-43a6-9051-a07adc9c108b
 
 # UN SDGs
 ![image](https://github.com/ShaikArshidBanu/Suraksha/assets/107802389/790bbd31-11e0-4a50-b614-c2daac5dd83c)
