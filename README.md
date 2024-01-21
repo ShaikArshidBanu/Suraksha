@@ -38,8 +38,9 @@ There are many women safety apps like Personal Safety,My Safetipin etc.But still
 4. Included Community Forums for Categorized discussion boards,Ability to post, comment, and upvote.
 5. Inculcated Self defence resources.
  # Information Architecture
- 
+![Open App](https://github.com/ShaikArshidBanu/Suraksha/assets/112767165/8646cba0-be3f-40c4-a807-cf0ff28d85c5)
 
 # Introducing Suraksha
 
-Welcome to Suraksha, your trusted companion for personal safety. At Suraksha, we prioritize your security and empowerment. Whether you're navigating the bustling city streets, commuting late at night, or exploring new places, our app is designed to be your vigilant partner. With real-time location sharing, emergency alerts,we're committed to creating a safer space for you.   
+Welcome to Suraksha, your trusted companion for personal safety. At Suraksha, we prioritize your security and empowerment. Whether you're navigating the bustling city streets, commuting late at night, or exploring new places, our app is designed to be your vigilant partner. With real-time location sharing, emergency alerts,we're committed to creating a safer space for you.  
+
