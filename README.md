@@ -1,4 +1,4 @@
-# Suraksha
+![image](https://github.com/ShaikArshidBanu/Suraksha/assets/107802389/9b4f3812-8b77-4169-9c5d-1db623a8e187)# Suraksha
 # Overview 
 This project addresses the pressing need for women's personal safety with the help of a mobile app offering features like real-time location sharing, access to self-defense resources and discreet emergency alerts. Users can share their whereabouts with trusted contacts and activate quick alerts in distressing situations. The app prioritizes simplicity and effectiveness, aiming to empower women with tools that enhance their security.  With a commitment to continuous improvement, we strive to contribute to a safer society where women can move through life with increased confidence and security.
 # Objectives 
@@ -43,4 +43,20 @@ There are many women safety apps like Personal Safety,My Safetipin etc.But still
 # Introducing Suraksha
 
 Welcome to Suraksha, your trusted companion for personal safety. At Suraksha, we prioritize your security and empowerment. Whether you're navigating the bustling city streets, commuting late at night, or exploring new places, our app is designed to be your vigilant partner. With real-time location sharing, emergency alerts,we're committed to creating a safer space for you.  
+
+# UN SDGs
+![image](https://github.com/ShaikArshidBanu/Suraksha/assets/107802389/790bbd31-11e0-4a50-b614-c2daac5dd83c)
+SDG 5 - Gender Equality
+Achieve gender equality and empower all women and girls.
+
+# Google Technologies to be implemented in our Project:
+1. Google Maps API: For location-based safety information and real-time navigation.
+2. Firebase: For community forums, issue reporting, and user profiles.
+3. Google Cloud Speech-to-Text: For reporting and hands-free communication.
+4. Google Cloud ML: This tool analyses and forecasts safe paths using past data.
+5. Integration with Google Calendar: For increased safety, let users plan and share their journeys with friends and family using Google Calendar integration.
+6. Google Cloud Translation API: Provide multilingual support to ensure that language barriers do not impede the app's effectiveness and to make it available to a wider audience. We can improve the usability, security, and usefulness of your app for women's empowerment and sustainable city safety by integrating these extra Google technologies.
+7. Google Cloud Maps Styling: Effectively draw attention to occurrences that the community reports, safe zones, and emergency services by customising the map interface. To build a visually intuitive and user-friendly experience, apply Google Cloud Maps Styling.
+
+
 
