@@ -1,0 +1,41 @@
+name: gaytri_s_application4
+description: A new Flutter project.
+version: 1.0.0+1
+environment: 
+  sdk: '>=2.12.0 <3.0.0'
+dependencies: 
+  flutter: 
+    sdk: flutter
+  flutter_localizations: 
+    sdk: flutter
+  flutter_bloc: ^8.1.3
+  connectivity_plus: ^5.0.2
+  shared_preferences: ^2.2.2
+  cached_network_image: ^3.3.0
+  flutter_svg: ^2.0.9
+  equatable: ^2.0.5
+dev_dependencies: 
+  flutter_test: 
+    sdk: flutter
+flutter: 
+  uses-material-design: true
+  assets: 
+    - assets/
+    - assets/images/
+  fonts: 
+    - family: Open Sans
+      fonts: 
+        - asset: assets/fonts/OpenSansRomanSemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/OpenSansBold.ttf
+          weight: 700
+        - asset: assets/fonts/OpenSans.ttf
+          weight: 400
+    - family: Caveat
+      fonts: 
+        - asset: assets/fonts/CaveatRomanBold.ttf
+          weight: 700
+    - family: Lato
+      fonts: 
+        - asset: assets/fonts/LatoSemiBold.ttf
+          weight: 600
