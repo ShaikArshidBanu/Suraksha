@@ -65,4 +65,8 @@ Achieve gender equality and empower all women and girls.
 7. Google Cloud Maps Styling: Effectively draw attention to occurrences that the community reports, safe zones, and emergency services by customising the map interface. To build a visually intuitive and user-friendly experience, apply Google Cloud Maps Styling.
 
 
+# Please check out our Presentation for more details: 
+[Google Solution Challenge  India Regionals - Suraksha.pdf](https://github.com/ShaikArshidBanu/Suraksha/files/14001597/Google.Solution.Challenge.India.Regionals.-.Suraksha.pdf)
+
+
 
