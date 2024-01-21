@@ -13,5 +13,33 @@ This project is a pivotal response to the imperative need for women's safety. In
 # Research on the problem
 Articles,research papers and online search
 
+![Screenshot 2024-01-20 184434](https://github.com/ShaikArshidBanu/Suraksha/assets/112767165/821e6ac3-bd7d-4874-9f59-e339d4628b16)
+
+![Screenshot 2024-01-20 185300](https://github.com/ShaikArshidBanu/Suraksha/assets/112767165/e300f235-5f09-427e-8003-71c25682cb75)
+
+![Screenshot 2024-01-20 185842](https://github.com/ShaikArshidBanu/Suraksha/assets/112767165/f87df10e-d5a0-46cc-8694-ad93a54bd154)
+
+![Screenshot 2024-01-20 190518](https://github.com/ShaikArshidBanu/Suraksha/assets/112767165/3e54ae6e-d228-4bbd-9dd7-fdf6d3060da0)
+
+# Existing Solution
+There are many women safety apps like Personal Safety,My Safetipin etc.But still these apps have some drawbacks which are listed below.
+
+# Problems observed in the existing solutions
+1. There is no option of Voice Interaction.
+2. There is no option of Calender Integration for route scheduling, Shareable calendar events for added safety.
+3. Absence of Language Selection feature making it unable to be used by users who don’t know English.
+4. Absence of Community Forums for Categorized discussion boards,Ability to post, comment, and upvote.
+5. Absence of Self defence resources.
+
+# Our Solution 
+1. Included voice Interaction by Speech-to-Text integration for hands-free reporting and Voice  commands or navigation for emergency assistance.
+2. Implemented Calender Integration for route scheduling, Shareable calendar events for added safety.
+3. Added Language Selection Feature.
+4. Included Community Forums for Categorized discussion boards,Ability to post, comment, and upvote.
+5. Inculcated Self defence resources.
+ # Information Architecture
+ 
+
 # Introducing Suraksha
+
 Welcome to Suraksha, your trusted companion for personal safety. At Suraksha, we prioritize your security and empowerment. Whether you're navigating the bustling city streets, commuting late at night, or exploring new places, our app is designed to be your vigilant partner. With real-time location sharing, emergency alerts,we're committed to creating a safer space for you.   
