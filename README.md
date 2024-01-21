@@ -1,4 +1,4 @@
-# Suraksha
+# Suraksha by TechnInnovators
  
 ![Screenshot 2024-01-21 185528](https://github.com/ShaikArshidBanu/Suraksha/assets/112767165/94738685-eb7e-4a42-8a63-314026e2667f)
 
