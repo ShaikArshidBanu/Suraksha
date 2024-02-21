@@ -1,0 +1,87 @@
+name: suraksha_demo_app
+description: A new Flutter project.
+version: 1.0.0+1
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+dependencies:
+  flutter: 
+    sdk: flutter
+  flutter_localizations: 
+    sdk: flutter
+  flutter_bloc: ^8.1.3
+  connectivity_plus: ^5.0.2
+  shared_preferences: ^2.2.2
+  cached_network_image: ^3.3.0
+  flutter_svg: ^2.0.9
+  equatable: ^2.0.5
+dev_dependencies: 
+  flutter_test: 
+    sdk: flutter
+flutter: 
+  uses-material-design: true
+  assets: 
+    - assets/
+    - assets/images/
+  fonts: 
+    - family: Caveat
+      fonts: 
+        - asset: assets/fonts/CaveatRomanBold.ttf
+          weight: 700
+    - family: Open Sans
+      fonts: 
+        - asset: assets/fonts/OpenSansRomanSemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/OpenSansBold.ttf
+          weight: 700
+        - asset: assets/fonts/OpenSans.ttf
+          weight: 400
+        - asset: assets/fonts/OpenSansLight.ttf
+          weight: 300
+    - family: Tiro Telugu
+      fonts: 
+        - asset: assets/fonts/TiroTeluguRegular.ttf
+          weight: 400
+    - family: Noto Nastaliq Urdu
+      fonts: 
+        - asset: assets/fonts/NotoNastaliqUrduBold.ttf
+          weight: 700
+    - family: Tiro Kannada
+      fonts: 
+        - asset: assets/fonts/TiroKannadaRegular.ttf
+          weight: 400
+    - family: Noto Sans Malayalam
+      fonts: 
+        - asset: assets/fonts/NotoSansMalayalamRegular.ttf
+          weight: 400
+    - family: Anek Gujarati
+      fonts: 
+        - asset: assets/fonts/AnekGujaratiRegular.ttf
+          weight: 400
+    - family: Tiro Devanagari Hindi
+      fonts: 
+        - asset: assets/fonts/TiroDevaHindiRegular.ttf
+          weight: 400
+    - family: Anek Odia
+      fonts: 
+        - asset: assets/fonts/AnekOdiaRegular.ttf
+          weight: 400
+    - family: Tiro Bangla
+      fonts: 
+        - asset: assets/fonts/TiroBanglaRegular.ttf
+          weight: 400
+    - family: Tiro Tamil
+      fonts: 
+        - asset: assets/fonts/TiroTamilRegular.ttf
+          weight: 400
+    - family: Tiro Devanagari Marathi
+      fonts: 
+        - asset: assets/fonts/TiroDevaMarathiRegular.ttf
+          weight: 400
+    - family: Tiro Devanagari Sanskrit
+      fonts: 
+        - asset: assets/fonts/TiroDevaSanskritRegular.ttf
+          weight: 400
+    - family: Lato
+      fonts: 
+        - asset: assets/fonts/LatoSemiBold.ttf
+          weight: 600
