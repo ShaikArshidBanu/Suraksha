@@ -1,0 +1,16 @@
+com.surakshademoapp.app-jetified-window-java-1.0.0-beta04-0 C:\Users\arshi\.gradle\caches\transforms-3\08a794a3f2f3970abb63093256f3a7ff\transformed\jetified-window-java-1.0.0-beta04\res
+com.surakshademoapp.app-jetified-window-1.0.0-beta04-1 C:\Users\arshi\.gradle\caches\transforms-3\6f3c94bc7e415994af128d830fc65f80\transformed\jetified-window-1.0.0-beta04\res
+com.surakshademoapp.app-jetified-annotation-experimental-1.1.0-2 C:\Users\arshi\.gradle\caches\transforms-3\8e2f9490fefd6c9168cbe28b58d6d5ff\transformed\jetified-annotation-experimental-1.1.0\res
+com.surakshademoapp.app-core-1.6.0-3 C:\Users\arshi\.gradle\caches\transforms-3\aaab9055df4bcc213684bd8c9a4ce85d\transformed\core-1.6.0\res
+com.surakshademoapp.app-debug-4 C:\Users\arshi\OneDrive\Desktop\Suraksha\Suraksha-current-app\android\app\src\debug\res
+com.surakshademoapp.app-main-5 C:\Users\arshi\OneDrive\Desktop\Suraksha\Suraksha-current-app\android\app\src\main\res
+com.surakshademoapp.app-pngs-6 C:\Users\arshi\OneDrive\Desktop\Suraksha\Suraksha-current-app\build\app\generated\res\pngs\debug
+com.surakshademoapp.app-resValues-7 C:\Users\arshi\OneDrive\Desktop\Suraksha\Suraksha-current-app\build\app\generated\res\resValues\debug
+com.surakshademoapp.app-rs-8 C:\Users\arshi\OneDrive\Desktop\Suraksha\Suraksha-current-app\build\app\generated\res\rs\debug
+com.surakshademoapp.app-mergeDebugResources-9 C:\Users\arshi\OneDrive\Desktop\Suraksha\Suraksha-current-app\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.surakshademoapp.app-mergeDebugResources-10 C:\Users\arshi\OneDrive\Desktop\Suraksha\Suraksha-current-app\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.surakshademoapp.app-merged_res-11 C:\Users\arshi\OneDrive\Desktop\Suraksha\Suraksha-current-app\build\app\intermediates\merged_res\debug
+com.surakshademoapp.app-packaged_res-12 C:\Users\arshi\OneDrive\Desktop\Suraksha\Suraksha-current-app\build\connectivity_plus\intermediates\packaged_res\debug
+com.surakshademoapp.app-packaged_res-13 C:\Users\arshi\OneDrive\Desktop\Suraksha\Suraksha-current-app\build\path_provider_android\intermediates\packaged_res\debug
+com.surakshademoapp.app-packaged_res-14 C:\Users\arshi\OneDrive\Desktop\Suraksha\Suraksha-current-app\build\shared_preferences_android\intermediates\packaged_res\debug
+com.surakshademoapp.app-packaged_res-15 C:\Users\arshi\OneDrive\Desktop\Suraksha\Suraksha-current-app\build\sqflite\intermediates\packaged_res\debug
